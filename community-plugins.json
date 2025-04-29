@@ -16763,6 +16763,13 @@
     "author": "Dee",
     "description": "Stop rainbow folders from changing colors when you scroll through the File explorer.",
     "repo": "dee158/obsidian-rainbow-folders-fixer"
-}
+  }
+  {
+  "id": "md-export-link-renamer",
+  "name": "Markdown Export Link Renamer",
+  "author": "Tommy-Kun",
+  "repo": "Tommy-Kun/md-export-link-renamer",
+  "description": "Export markdown with linked files renamed and saved to a target directory."
+  }
 ]
 
